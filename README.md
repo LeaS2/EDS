@@ -27,3 +27,9 @@ Datei zum geteilten Repo hinzufügen:
 git push
 ```
 
+## Hilfreiche Links
+
+Pyfar Dokumentation: 
+```
+https://pyfar.readthedocs.io/en/latest/classes/pyfar.audio.html#pyfar.classes.audio.Signal
+```
